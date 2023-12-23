@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":false,"name":"プラグイン-plugins-日本語","order":6,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":true,"name":"光の部屋-theme of light-","order":1,"parentId":0,"scrollX":756.5,"scrollY":397},
+{"id":3,"expanded":true,"name":"闇の部屋-theme of dark-","order":2,"parentId":0,"scrollX":811,"scrollY":543.5},
+{"id":4,"expanded":false,"name":"森の町-Magic arrange-","order":3,"parentId":0,"scrollX":1906.909090909091,"scrollY":490.3636363636364},
+{"id":5,"expanded":true,"name":"宇宙港","order":4,"parentId":0,"scrollX":443.5,"scrollY":843},
+{"id":6,"expanded":false,"name":"航宙艦","order":5,"parentId":0,"scrollX":443.5,"scrollY":1963},
+{"id":7,"expanded":false,"name":"プラグイン-plugins-English","order":7,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":8,"expanded":false,"name":"Language","order":8,"parentId":0,"scrollX":451.5,"scrollY":405}
+]
